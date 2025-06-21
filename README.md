@@ -40,7 +40,7 @@ Here are some of the projects I’ve built so far —
 
 ## 📫 Contact Me:
 - 📧 Email: memoonashafiq07@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/memoona-shafiq-1505b9370
+- 🔗 LinkedIn: https://www.linkedin.com/in/memoona-shafiq-1505b9370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Baaa%2BcT8kTCCMs5JrOPuxTQ%3D%3D
 
 💡 I’m always looking to collaborate on interesting projects — feel free to reach out!
 
